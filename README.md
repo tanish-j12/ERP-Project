@@ -260,7 +260,7 @@ This project is for **educational purposes only**.
 B.Tech Computer Science | IIIT Delhi
 
 - 📧 Email: tanish24579@iiitd.ac.in
-- 💼 LinkedIn: [linkedin.com/in/tanishjindal](https://linkedin.com/in/tanishjindal)
+- 💼 LinkedIn: [linkedin.com/in/tanishjindal](https://www.linkedin.com/in/tanish-jindal-a21104344/)
 - 🐙 GitHub: [github.com/tanish-j12](https://github.com/tanish-j12)
 
 ---
